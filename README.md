@@ -25,7 +25,8 @@
 
 - Word公式编辑可以使用[这个工具](https://github.com/ixzhao/ixzhao.github.io)。
   
-- 参考文献的自动排版，可以使用NoteExpress的样式文件“北航硕博论文.nes”，如果你平时用NoteExpress管理你的文献。
+- 参考文献的自动排版，可以使用NoteExpress的样式文件“北航硕博论文.nes”，如果你平时用NoteExpress管理你的文献。  
+  
   用仓库里的nes文件直接替换C:\Users\你的用户名\AppData\Roaming\NoteExpress\Styles路径里的原文件（记得先备份）；如果在授权IP范围以外，可以替换7个默认样式之一的同名文件。
     ```
     NoteExpress的个人标准版是不允许在授权IP范围以外使用的，而且限制只能使用7个默认的样式，样式格式也不能编辑。所以推荐使用集团版，可以在学校图书馆下载。或者到 http://www.inoteexpress.com/download_chs.htm#Downloads 找一个可以下载的高校集团版本，比如北大版 http://www.inoteexpress.com/support/cgi-bin/download_sch.cgi?code=BeiDa（该途径低调下载使用，说不定哪天页面就打不开了）。
@@ -35,7 +36,7 @@
   
 - 题注插入：插入时，选中图/表，引用-插入题注，选择图/表标签以及题注位置；正文中引用时，引用-交叉引用，选择引用类型以及引用内容。
   
-- 对于目录、图标清单以及域的自动更新，Ctrl+A全选，F9更新。
+- 对于目录、图表清单以及域的自动更新，Ctrl+A全选，F9更新。
   
 - 其他内容可参照《规定》填写。
   
@@ -48,9 +49,12 @@
 
 ## 其他事项
 
-- 模板是启用宏的Word文件，主要考虑2个方面：
-  一是题注标签只能保存到本机上Office默认的Normal.dotm模板里（参考[这里](https://www.msofficeforums.com/word/15715-captions-self-defined.html#2)），所以只能通过宏（现查的VBA的编程规范，头发掉了一把😢），在每次打开文档时自动添加“图”和“表”这两个题注标签。如果不需要，可以进入宏工程后，在左侧窗口Project-ThisDocument双击，清空内容。
-  二是《规定》要求的题注格式为“图1空格空格XXX”，这与Word默认的题注格式不同，手动更改太麻烦，所以还是通过宏（借鉴的[这里](http://blog.sina.com.cn/s/blog_51817ae50102w8mz.html)），插入题注时自动删除标签与编号前的空格，自动在编号后添加2个空格。如果不需要，直接在查看宏界面删除即可。
+- 模板是启用宏的Word文件，主要考虑2个方面：  
+  
+  一是题注标签只能保存到本机上Office默认的Normal.dotm模板里（参考[这里](https://www.msofficeforums.com/word/15715-captions-self-defined.html#2)），所以只能通过宏（现查的VBA的编程规范，头发掉了一把😢），在每次打开文档时自动添加“图”和“表”这两个题注标签。如果不需要，可以进入宏工程后，在左侧窗口Project-ThisDocument双击，清空内容。  
+
+  二是《规定》要求的题注格式为“图1空格空格XXX”，这与Word默认的题注格式不同，手动更改太麻烦，所以还是通过宏（借鉴的[这里](http://blog.sina.com.cn/s/blog_51817ae50102w8mz.html)），插入题注时自动删除标签与编号前的空格，自动在编号后添加2个空格。如果不需要，直接在查看宏界面删除即可。  
+
   
 - 感谢 [heckBoxStudio/BUAAThesis](https://github.com/CheckBoxStudio/BUAAThesis)。
   
