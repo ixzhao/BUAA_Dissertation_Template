@@ -6,7 +6,7 @@
 
 - ✅参照了[《北京航空航天大学研究生撰写学位论文的规定》](http://graduate.buaa.edu.cn/info/1039/7831.htm)2021年11月的最新修订要求
   
-- ✅专业/学术学位，硕士/博士，一套模板
+- ✅专业/学术学位，硕士/博士，尽在一套模板
   
 - ✅按顺序组织了论文结构，开箱即用
   
@@ -28,7 +28,7 @@
 - 参考文献的自动排版，可以使用NoteExpress的样式文件“北航硕博论文.nes”，如果你平时用NoteExpress管理你的文献。
   用仓库里的nes文件直接替换C:\Users\你的用户名\AppData\Roaming\NoteExpress\Styles路径里的原文件（记得先备份）；如果在授权IP范围以外，可以替换7个默认样式之一的同名文件。
     ```
-    NoteExpress的个人标准版是不允许在授权IP范围以外使用的，而且限制只能使用7个默认的样式，样式格式也不能编辑。所以推荐使用集团版，可以在学校图书馆下载。或者到 http://www.inoteexpress.com/download_chs.htm#Downloads 找一个可以下载的高校集团版本（该途径低调下载使用，说不定哪天页面就打不开了）。
+    NoteExpress的个人标准版是不允许在授权IP范围以外使用的，而且限制只能使用7个默认的样式，样式格式也不能编辑。所以推荐使用集团版，可以在学校图书馆下载。或者到 http://www.inoteexpress.com/download_chs.htm#Downloads 找一个可以下载的高校集团版本，比如北大版 http://www.inoteexpress.com/support/cgi-bin/download_sch.cgi?code=BeiDa（该途径低调下载使用，说不定哪天页面就打不开了）。
     ```
   
 - 建议启用宏，如果你不需要，可以视图-宏-查看宏-编辑，进入后删除，详细见[其他事项](##其他事项)。
