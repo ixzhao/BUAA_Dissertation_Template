@@ -43,14 +43,6 @@
     ```
   
 - 建议在开始-段落-显示编辑标记、在状态栏右键勾选“节”。❗❗❗注意❗❗❗打印时很有可能会在3个地方分别多出一页空白页：摘要前、第一章前、总结与展望前，个人建议将Word文件输出为PDF文件，然后使用Adobe Acrobat等工具删除多余的空白页。具体原因见[其他事项](#blankpage)。
-  
-- 其他内容可参照《规定》填写。
-  
-  📌在线乞讨环节：
-  如果本仓库大大地节省了你的时间，何尝不请我喝一杯小小的Coffee？
-
-  <span><img src="https://raw.githubusercontent.com/ixzhao/BUAA_Dissertation_Template/main/image/alipay.jpg" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ixzhao/BUAA_Dissertation_Template/main/image/wechat.jpg" width="40%"/></span>
-
 
 
 ## 其他事项
