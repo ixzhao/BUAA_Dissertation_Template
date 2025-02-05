@@ -1,5 +1,5 @@
 # BUAA_Dissertation_Template
-北航硕博研究生毕业论文模板（Word）
+北航硕博研究生毕业设计论文模板（Word）
 
 点击下载  https://github.com/ixzhao/BUAA_Dissertation_Template/archive/refs/heads/main.zip
 
@@ -31,11 +31,7 @@
 
 5. 公式自动编号：在需要插入公式的地方直接运行宏InsertEquation即可。
 
-6. 参考文献自动排版，可以借助NoteExpress的样式文件，如果你平时用NoteExpress管理你的文献。但是NoteExpress自带的北航硕博论文样式已经很久不更新了，可以用本仓库中的“北航硕博论文.nes”替换。  
-  
-    在 C:\Users\用户名\AppData\Roaming\NoteExpress\Styles 路径下，直接替换原文件“北京航空航天大学博硕士论文.nes”（记得先备份再改名替换）；如果在授权IP范围以外，可以先将文件重命名为7个默认样式之一然后再替换。  
-
-        NoteExpress的个人标准版是不允许在授权IP范围以外使用的，而且限制只能使用7个默认的样式，样式格式也不能编辑。所以推荐使用集团版，可以在学校图书馆首页-右侧快速链接-常用工具下载。或者到 http://www.inoteexpress.com/download_chs.htm#Downloads 找一个可以在授权IP范围外下载的高校集团版本，比如北大版 http://www.inoteexpress.com/support/cgi-bin/download_sch.cgi?code=BeiDa（该途径低调下载使用，说不定哪天页面就打不开了）。
+6. 参考文献自动排版，可以借助NoteExpress的样式文件，如果你平时用NoteExpress管理你的文献。但是NoteExpress自带的北航硕博论文样式已经很久不更新了，可以用本仓库中的“北航硕博论文.nes”替换。在 `C:\Users\用户名\AppData\Roaming\NoteExpress\Styles` 路径下，直接替换原文件“北京航空航天大学博硕士论文.nes”（记得先备份再改名替换）。（NoteExpress个人标准版在某些情况下存在一定的使用限制，推荐使用集团版。）
   
 7. 建议在开始-段落-显示编辑标记、在状态栏右键勾选“节”。
     
